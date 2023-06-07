@@ -1,0 +1,220 @@
+Age;Height;Weight;Systolic;Diastolic ;Heart-Rate;BMI;Hypertension
+45;152;63;161;89;97;27;Stage 2 hypertension
+50;157;50;160;93;76;20;Stage 2 hypertension
+47;150;47;101;71;79;21;Normal
+45;172;65;136;93;87;22;Prehypertension
+46;155;65;123;73;73;27;Prehypertension
+48;160;68;124;62;70;27;Prehypertension
+48;153;49;126;78;84;21;Prehypertension
+53;160;70;108;73;84;27;Normal
+58;165;55;89;42;63;20;Normal
+47;150;47;98;56;69;21;Normal
+27;170;85;124;85;94;29;Prehypertension
+47;150;51;137;80;78;23;Prehypertension
+48;155;57;117;70;75;24;Normal
+51;160;75;118;71;84;29;Normal
+27;150;62;107;63;84;28;Normal
+48;150;57;178;86;80;25;Stage 2 hypertension
+56;167;55;124;75;93;20;Prehypertension
+25;160;52;95;57;76;20;Normal
+46;150;48;114;65;79;21;Normal
+51;168;80;161;89;72;28;Stage 2 hypertension
+54;170;70;125;75;82;24;Prehypertension
+51;170;70;115;64;103;24;Normal
+51;170;60;129;81;91;21;Prehypertension
+80;170;70;173;90;73;24;Stage 2 hypertension
+66;150;57;182;102;81;25;Stage 2 hypertension
+44;170;65;110;64;66;22;Normal
+59;151;48;139;85;80;21;Prehypertension
+60;169;71;153;72;85;25;Stage 1 hypertension
+48;160;48;150;96;87;19;Stage 1 hypertension
+46;165;56;116;56;72;21;Normal
+46;155;50;103;65;66;21;Normal
+53;155;85;141;72;87;35;Stage 1 hypertension
+80;165;45;160;77;59;17;Stage 2 hypertension
+62;148;45;133;76;80;21;Prehypertension
+68;158;49;142;90;65;20;Stage 1 hypertension
+52;168;65;154;88;80;23;Stage 1 hypertension
+66;162;65;173;107;93;25;Stage 2 hypertension
+65;163;60;111;62;73;23;Normal
+66;170;55;107;63;84;19;Normal
+47;160;60;128;66;71;23;Prehypertension
+27;181;85;131;88;69;26;Prehypertension
+74;155;55;114;75;106;23;Normal
+62;167;46;139;84;106;16;Prehypertension
+51;158;50;110;63;67;20;Normal
+75;160;60;100;54;85;23;Normal
+45;168;69;117;74;59;24;Normal
+62;165;65;117;74;79;24;Normal
+55;156;55;101;63;62;23;Normal
+82;150;45;122;73;89;20;Prehypertension
+60;165;50;111;76;77;18;Normal
+30;161;44;105;70;85;17;Normal
+42;152;49;100;63;67;21;Normal
+77;150;42;182;80;101;19;Stage 2 hypertension
+76;150;50;106;53;69;22;Normal
+58;164;53;158;89;73;20;Stage 1 hypertension
+71;159;80;170;87;74;32;Stage 2 hypertension
+78;160;55;164;73;85;21;Stage 2 hypertension
+77;153;60;120;69;76;26;Prehypertension
+74;152;56;100;55;63;24;Normal
+63;166;90;128;77;85;33;Prehypertension
+53;160;64;116;58;71;25;Normal
+53;160;64;128;76;73;25;Prehypertension
+54;169;64;161;95;78;22;Stage 2 hypertension
+64;163;72;153;71;59;27;Stage 1 hypertension
+76;158;62;136;71;72;25;Prehypertension
+76;168;75;143;65;66;27;Stage 1 hypertension
+68;170;69;116;65;70;24;Normal
+78;170;60;133;71;80;21;Prehypertension
+68;150;63;140;82;73;28;Stage 1 hypertension
+63;153;45;120;60;76;19;Prehypertension
+67;155;55;135;75;72;23;Prehypertension
+86;161;70;130;66;69;27;Prehypertension
+59;171;80;133;77;66;27;Prehypertension
+62;170;60;116;66;70;21;Normal
+58;160;65;137;65;72;25;Prehypertension
+60;154;50;120;63;86;21;Prehypertension
+74;170;73;169;76;79;25;Stage 2 hypertension
+61;165;66;173;100;89;24;Stage 2 hypertension
+53;172;63;131;79;61;21;Prehypertension
+72;164;55;133;73;66;20;Prehypertension
+54;150;82;108;66;62;36;Normal
+64;165;55;80;48;53;20;Normal
+41;152;45;113;67;67;19;Normal
+77;150;48;147;85;60;21;Stage 1 hypertension
+55;150;48;133;72;76;21;Prehypertension
+78;160;50;129;64;67;20;Prehypertension
+58;168;45;116;60;78;16;Normal
+69;155;60;160;77;88;25;Stage 2 hypertension
+40;154;43;82;53;83;18;Normal
+21;159;53;110;63;85;21;Normal
+73;160;62;123;68;67;24;Prehypertension
+67;159;57;134;58;74;23;Prehypertension
+67;159;43;116;61;80;17;Normal
+72;157;39;122;65;83;16;Prehypertension
+56;165;70;165;86;73;26;Stage 2 hypertension
+80;156;60;123;56;58;25;Prehypertension
+79;148;40;128;64;73;18;Prehypertension
+85;155;60;149;71;67;25;Stage 1 hypertension
+69;150;61;141;67;61;27;Stage 1 hypertension
+74;153;40;148;69;92;17;Stage 1 hypertension
+85;157;54;125;62;75;22;Prehypertension
+54;152;60;137;84;62;26;Prehypertension
+73;160;58;139;71;72;23;Prehypertension
+82;162;56;118;55;82;21;Normal
+59;158;58;135;84;80;23;Prehypertension
+59;160;68;119;64;78;27;Normal
+85;162;54;118;68;72;21;Normal
+61;156;69;124;79;68;28;Prehypertension
+78;150;55;135;63;59;24;Prehypertension
+54;154;85;115;71;70;36;Normal
+70;158;49;135;69;78;20;Prehypertension
+84;162;80;149;70;69;30;Stage 1 hypertension
+78;165;40;163;63;64;15;Stage 2 hypertension
+71;160;50;136;68;68;20;Prehypertension
+56;164;60;158;88;58;22;Stage 1 hypertension
+55;173;72;113;67;68;24;Normal
+72;164;55;136;64;82;20;Prehypertension
+63;165;55;115;62;82;20;Normal
+66;175;85;147;70;58;28;Stage 1 hypertension
+60;173;80;107;73;76;27;Normal
+26;178;60;115;75;64;19;Normal
+43;162;59;112;68;67;22;Normal
+53;168;58;135;89;93;21;Prehypertension
+57;157;44;107;60;67;18;Normal
+76;162;60;140;72;70;23;Stage 1 hypertension
+61;165;68;128;73;60;25;Prehypertension
+47;155;90;148;88;61;37;Stage 1 hypertension
+32;151;61;101;70;79;27;Normal
+53;159;52;110;63;77;21;Normal
+40;158;56;120;63;71;22;Prehypertension
+66;165;65;125;74;70;24;Prehypertension
+53;175;62;98;59;59;20;Normal
+61;165;60;149;84;98;22;Stage 1 hypertension
+64;151;45;117;82;69;20;Normal
+77;170;61;138;69;76;21;Prehypertension
+67;156;56;113;55;61;23;Normal
+50;160;60;131;72;73;23;Prehypertension
+35;175;68;127;78;59;22;Prehypertension
+56;154;50;109;64;71;21;Normal
+72;160;55;131;74;75;21;Prehypertension
+61;173;75;131;71;87;25;Prehypertension
+67;154;57;133;53;68;24;Prehypertension
+72;168;61;108;59;77;22;Normal
+50;163;87;110;75;78;33;Normal
+56;158;54;123;75;63;22;Prehypertension
+51;170;65;123;78;72;22;Prehypertension
+30;196;103;121;78;60;27;Prehypertension
+84;150;36;133;68;74;16;Prehypertension
+66;160;65;176;80;81;25;Stage 2 hypertension
+54;155;82;157;94;76;34;Stage 1 hypertension
+78;158;60;138;66;58;24;Prehypertension
+59;153;54;113;62;53;23;Normal
+65;165;72;143;77;63;26;Stage 1 hypertension
+63;153;54;123;62;52;23;Prehypertension
+58;160;75;151;82;78;29;Stage 1 hypertension
+62;156;60;128;71;65;25;Prehypertension
+52;150;50;143;79;74;22;Stage 1 hypertension
+61;162;64;140;87;64;24;Stage 1 hypertension
+65;166;55;139;69;63;20;Prehypertension
+65;160;59;147;79;68;23;Stage 1 hypertension
+51;167;63;112;69;52;23;Normal
+71;155;47;159;86;62;20;Stage 1 hypertension
+63;169;62;151;91;55;22;Stage 1 hypertension
+66;172;60;123;61;56;20;Prehypertension
+74;155;45;139;75;81;19;Prehypertension
+46;187;83;149;101;63;24;Stage 1 hypertension
+52;158;59;127;83;58;24;Prehypertension
+63;153;60;149;78;79;26;Stage 1 hypertension
+59;165;68;149;92;78;25;Stage 1 hypertension
+55;155;50;174;104;96;21;Stage 2 hypertension
+56;145;54;126;81;68;26;Prehypertension
+58;160;42;111;65;67;16;Normal
+42;156;86;121;73;66;35;Prehypertension
+58;163;65;113;60;67;24;Normal
+48;173;58;122;77;76;19;Prehypertension
+47;157;61;131;74;69;25;Prehypertension
+52;164;90;169;90;91;33;Stage 2 hypertension
+52;168;55;119;62;94;19;Normal
+80;152;59;119;61;76;26;Normal
+38;155;70;122;69;60;29;Prehypertension
+61;165;61;122;62;67;22;Prehypertension
+75;162;60;144;70;72;23;Stage 1 hypertension
+48;171;86;136;76;63;29;Prehypertension
+55;170;68;119;65;84;24;Normal
+81;168;58;137;74;61;21;Prehypertension
+53;175;75;138;93;65;24;Prehypertension
+81;156;75;142;65;71;31;Stage 1 hypertension
+57;162;72;128;79;72;27;Prehypertension
+58;165;67;138;69;98;25;Prehypertension
+69;150;53;131;72;71;24;Prehypertension
+64;160;53;126;65;66;21;Prehypertension
+54;170;60;137;80;81;21;Prehypertension
+62;183;89;117;68;55;27;Normal
+64;154;51;98;59;80;22;Normal
+70;156;60;114;71;67;25;Normal
+58;150;55;126;63;64;24;Prehypertension
+61;167;70;132;62;75;25;Prehypertension
+56;170;74;143;82;60;26;Stage 1 hypertension
+66;167;61;145;82;74;22;Stage 1 hypertension
+64;150;47;124;70;77;21;Prehypertension
+53;158;59;102;57;80;24;Normal
+28;160;58;122;70;88;23;Prehypertension
+84;152;44;127;65;60;19;Prehypertension
+25;176;55;100;71;85;18;Normal
+23;155;47;90;59;67;20;Normal
+26;158;44;102;55;86;18;Normal
+26;171;75;106;63;69;26;Normal
+24;155;38;96;67;82;16;Normal
+25;158;44;100;63;83;18;Normal
+24;162;55;102;66;80;21;Normal
+24;163;55;108;65;74;21;Normal
+25;155;50;84;56;64;21;Normal
+25;169;67;104;70;63;23;Normal
+24;168;55;109;68;87;19;Normal
+24;180;70;111;70;77;22;Normal
+25;156;47;93;57;79;19;Normal
+25;176;55;120;69;72;18;Prehypertension
+25;173;63;106;69;67;21;Normal
+24;175;58;108;68;65;19;Normal
